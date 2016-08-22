@@ -1,0 +1,7 @@
+E:\VsProjects\Challenge2\Challenge2Test\bin\Debug\Challenge2Test.dll
+E:\VsProjects\Challenge2\Challenge2Test\bin\Debug\Challenge2Test.pdb
+E:\VsProjects\Challenge2\Challenge2Test\bin\Debug\Challenge2.dll
+E:\VsProjects\Challenge2\Challenge2Test\bin\Debug\Challenge2.pdb
+E:\VsProjects\Challenge2\Challenge2Test\obj\Debug\Challenge2Test.csprojResolveAssemblyReference.cache
+E:\VsProjects\Challenge2\Challenge2Test\obj\Debug\Challenge2Test.dll
+E:\VsProjects\Challenge2\Challenge2Test\obj\Debug\Challenge2Test.pdb
